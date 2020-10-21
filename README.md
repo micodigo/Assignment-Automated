@@ -17,7 +17,7 @@ Once you open auto_assignments_download.exe it will ask for some credentials i.e
 Once you enter all the credentials and hit enter. Now you don't need to do anything, this project will do the rest of the work. This will create an Assignment folder into the current directory and inside the assignment folder, it will create some folders which are subjected folders whose assignments are presented at the portal. It will download all the assignments into their respective subject folders. When all the assignments are downloaded it will automatically log-out from the portal.
 
 ## SCREENSHOTS
- <p style="font-weight:bold,color:blue">Provide all credentials i.e. your college id, password, and section</p>
+:small_blue_diamond: Provide all credentials i.e. your college id, password, and section
 ![1](https://user-images.githubusercontent.com/66904677/96719421-fd5b3f00-13c6-11eb-9fe6-296cc308c213.png)
 
 :small_blue_diamond: Downloading all assignments to there respected subject folder
