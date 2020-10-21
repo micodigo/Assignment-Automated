@@ -22,18 +22,23 @@ Once you enter all the credentials and hit enter. Now you don't need to do anyth
 ![1](https://user-images.githubusercontent.com/66904677/96719421-fd5b3f00-13c6-11eb-9fe6-296cc308c213.png)
 
 :small_blue_diamond: <b>Downloading all assignments to there respected subject folder</b>
+
 ![4](https://user-images.githubusercontent.com/66904677/96716748-119d3d00-13c3-11eb-8f05-e8d43eac351a.png)
 
-:small_blue_diamond: <b>After all assignment are downloaded, it will log-out from the portal automatically</b><br>
+:small_blue_diamond: <b>After all assignment are downloaded, it will log-out from the portal automatically</b>
+
 ![5](https://user-images.githubusercontent.com/66904677/96716653-f5010500-13c2-11eb-88e0-55d1293d8b88.png)
 
-:small_blue_diamond:<b> A directory is created which is named as assignments in current directory</b><br>
+:small_blue_diamond:<b> A directory is created which is named as assignments in current directory</b>
+
 ![6](https://user-images.githubusercontent.com/66904677/96716657-f6323200-13c2-11eb-9b48-5d06a3d4ef28.png)
 
-:small_blue_diamond: <b>Inside assignments folder different subjects folder is created</b><br>
+:small_blue_diamond: <b>Inside assignments folder different subjects folder is created</b>
+
 ![7](https://user-images.githubusercontent.com/66904677/96716663-f7635f00-13c2-11eb-9a8a-027c700aa7ec.png)
 
-:small_blue_diamond:<b> Assignments in their respected subject folders</b><br>
+:small_blue_diamond:<b> Assignments in their respected subject folders</b>
+
 ![8](https://user-images.githubusercontent.com/66904677/96716669-f8948c00-13c2-11eb-83e1-87d96bb10de5.png)
 
 ![9](https://user-images.githubusercontent.com/66904677/96716638-f16d7e00-13c2-11eb-9e47-9c5c881cf9fc.png)
