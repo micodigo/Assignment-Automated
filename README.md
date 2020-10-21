@@ -18,7 +18,7 @@ Once you enter all the credentials and hit enter. Now you don't need to do anyth
 
 ## SCREENSHOTS
  <p style="font-weight:bold,color:blue">Provide all credentials i.e. your college id, password, and section</p>
-!![1](https://user-images.githubusercontent.com/66904677/96719421-fd5b3f00-13c6-11eb-9fe6-296cc308c213.png)
+![1](https://user-images.githubusercontent.com/66904677/96719421-fd5b3f00-13c6-11eb-9fe6-296cc308c213.png)
 
 :small_blue_diamond: Downloading all assignments to there respected subject folder
 ![4](https://user-images.githubusercontent.com/66904677/96716748-119d3d00-13c3-11eb-8f05-e8d43eac351a.png)
