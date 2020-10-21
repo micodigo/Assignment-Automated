@@ -10,34 +10,35 @@ Python language is used with Selenium for testing. It has far less verbose and e
 ## Intro
 This project will help students of IMSEC to download all the assignments from the college portal (Portal link:- http://52.220.116.248/) and segregate them based upon their respected subjects. Instead of doing it manually i.e. by clicking each assignment, this project will help them to save their time by just one click.
 
-Once you open auto_assignments_download.exe it will ask for some credentials i.e. 
-:heavy_check_mark: College Id
-:heavy_check_mark: Password
-:heavy_check_mark: Section
+Once you open auto_assignments_download.exe it will ask for some credentials i.e. <br>
+:heavy_check_mark: College Id<br>
+:heavy_check_mark: Password<br>
+:heavy_check_mark: Section<br>
 Once you enter all the credentials and hit enter. Now you don't need to do anything, this project will do the rest of the work. This will create an Assignment folder into the current directory and inside the assignment folder, it will create some folders which are subjected folders whose assignments are presented at the portal. It will download all the assignments into their respective subject folders. When all the assignments are downloaded it will automatically log-out from the portal.
 
 ## SCREENSHOTS
-:small_blue_diamond: Provide all credentials i.e. your college id, password, and section
+:small_blue_diamond: <b>Provide all credentials i.e. your college id, password, and section</b>
+
 ![1](https://user-images.githubusercontent.com/66904677/96719421-fd5b3f00-13c6-11eb-9fe6-296cc308c213.png)
 
-:small_blue_diamond: Downloading all assignments to there respected subject folder
+:small_blue_diamond: <b>Downloading all assignments to there respected subject folder</b>
 ![4](https://user-images.githubusercontent.com/66904677/96716748-119d3d00-13c3-11eb-8f05-e8d43eac351a.png)
 
-:small_blue_diamond: After all assignment are downloaded, it will log-out from the portal automatically
+:small_blue_diamond: <b>After all assignment are downloaded, it will log-out from the portal automatically</b><br>
 ![5](https://user-images.githubusercontent.com/66904677/96716653-f5010500-13c2-11eb-88e0-55d1293d8b88.png)
 
-:small_blue_diamond: A directory is created which is named as assignments in current directory
+:small_blue_diamond:<b> A directory is created which is named as assignments in current directory</b><br>
 ![6](https://user-images.githubusercontent.com/66904677/96716657-f6323200-13c2-11eb-9b48-5d06a3d4ef28.png)
 
-:small_blue_diamond: Inside assignments folder different subjects folder is created
+:small_blue_diamond: <b>Inside assignments folder different subjects folder is created</b><br>
 ![7](https://user-images.githubusercontent.com/66904677/96716663-f7635f00-13c2-11eb-9a8a-027c700aa7ec.png)
 
-:small_blue_diamond: Assignments in their respected subject folders
+:small_blue_diamond:<b> Assignments in their respected subject folders</b><br>
 ![8](https://user-images.githubusercontent.com/66904677/96716669-f8948c00-13c2-11eb-83e1-87d96bb10de5.png)
 
 ![9](https://user-images.githubusercontent.com/66904677/96716638-f16d7e00-13c2-11eb-9e47-9c5c881cf9fc.png)
 
 ## NOTE: :pencil:
-:pencil2: Make sure that the chromedriver.exe file should be there in the same directory.
-:pencil2: While login there should be no space between any two characters. (eg. in section, IT 1 is not allowed, IT1 is correct).
-:pencil2: This project is only for study purposes.
+:pencil2: Make sure that the chromedriver.exe file should be there in the same directory.<br>
+:pencil2: While login there should be no space between any two characters. (eg. in section, IT 1 is not allowed, IT1 is correct).<br>
+:pencil2: This project is only for study purposes.<br>
